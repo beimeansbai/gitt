@@ -1,4 +1,5 @@
 file id:7cdd008d26a80652db9792b3284139255eb82105gittaaa.txt
+wp:security_team and (abc or (hire_data and business_staff))
+rp:(A1 and A2) or (A5 or (A6 and A7))
 123
-222111333444555666
-i:3
+222111333444555666777
